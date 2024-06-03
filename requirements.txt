@@ -1,0 +1,15 @@
+opencv-python
+streamlit
+mediapipe
+numpy
+pandas
+random
+requests
+base64
+matplotlib
+seaborn
+pillow
+tensorflow
+keras
+keras-utils
+os
